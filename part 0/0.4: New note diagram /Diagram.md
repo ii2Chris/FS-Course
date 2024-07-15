@@ -7,7 +7,7 @@ sequenceDiagram
     participant user
 
     user->>browser: Writes Note in the text box
-    User->>browser: Clicks the save button
+    user->>browser: Clicks the save button
 
     browser->>server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_notes
     server->>browser: redirect to /notes

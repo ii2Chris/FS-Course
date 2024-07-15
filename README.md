@@ -1,3 +1,3 @@
 # FS-Course
 
-just a test :D
+Learning Project Proposal Deliverables, with collaboration with my internship time at TIQC.

@@ -2,6 +2,7 @@ Task: Create a similar diagram to the one in "Example" depicting the situation w
 
 '''mermaid
 sequenceDiagram
-
-
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
 '''
